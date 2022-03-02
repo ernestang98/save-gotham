@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555429987572",
+    "firebase_url": "https://cz4001-675ac-default-rtdb.firebaseio.com",
+    "project_id": "cz4001-675ac",
+    "storage_bucket": "cz4001-675ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555429987572:android:4b60293ac5ebf10a260aa1",
+        "android_client_info": {
+          "package_name": "cz4001.team1.vrproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555429987572-j0ncc4alg2actodftrn1dpd55nv8l3vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUb583HuCsL4d0hlL4tbLpbIqfGa6w4rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555429987572-j0ncc4alg2actodftrn1dpd55nv8l3vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
