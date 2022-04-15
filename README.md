@@ -1,4 +1,4 @@
-# CZ4001-VR-Assignment
+# CZ4001 Virtual Reality Assignment
 
 CZ4001 VR Game about Climate Change and Sustainability Awareness
 
